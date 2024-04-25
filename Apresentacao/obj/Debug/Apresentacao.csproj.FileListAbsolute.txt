@@ -1,0 +1,90 @@
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.exe.config
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.exe
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.pdb
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\MySql.Data.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\ZstdSharp.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Memory.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Buffers.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.IO.Pipelines.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Hash.xxHash.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Numerics.Vectors.dll
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.pdb
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.dll.config
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.pdb
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.dll.config
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\MySql.Data.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.pdb
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Memory.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Buffers.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.IO.Pipelines.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Hash.xxHash.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\bin\Debug\System.Numerics.Vectors.xml
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.TelaFornecedor.resources
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.TelaPrincipal.resources
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\Apresent.076B8766.Up2Date
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.exe
+D:\ARQUIVOS\projeto 3 camadas\Projeto 3 camadas\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\ZstdSharp.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Negocios.dll.config
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.pdb
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\AcessoBD.dll.config
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.TelaCliente.resources
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.TelaFornecedor.resources
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.TelaPrincipal.resources
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\Apresentacao.csproj.CopyComplete
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Administrador\Documents\bruno-silva\katia\2ºbimestre\WindowsFormsApp3\Apresentacao\obj\Debug\WindowsFormsApp3.pdb
